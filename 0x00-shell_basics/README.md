@@ -1,1 +1,1 @@
-creating directory
+School data file detection
