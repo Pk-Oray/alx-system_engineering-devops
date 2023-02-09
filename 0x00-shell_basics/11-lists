@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Files in the /boot directory:"
-ls -al /boot
+echo "Files in the /boot directory:" ls -al /boo
