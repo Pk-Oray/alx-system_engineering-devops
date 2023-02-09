@@ -1,1 +1,1 @@
-Delete the file
+prints the type of the file
