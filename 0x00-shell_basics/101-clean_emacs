@@ -1,5 +1,2 @@
 #!/bin/bash
-for file in *~
-do
-  rm $file
-done
+for file in *~ do rm $file done
