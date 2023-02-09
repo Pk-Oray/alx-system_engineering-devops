@@ -1,1 +1,1 @@
-this script open current directory
+Move the file betty
