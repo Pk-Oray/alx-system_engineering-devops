@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -A --group-directories-first --ignore="*~" | awk 'BEGIN{ ORS="," } /^[A-Za-z0-9]/ { print } /^\.\.?$/ { print; next } END{ print "\n" }'
