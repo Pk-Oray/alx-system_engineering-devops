@@ -1,0 +1,5 @@
+This script uses the pwd command to get the current working directory and stores it in the current_dir variable. Then, it opens the current_dir in the vi editor, and uses the echo expand(%:p) command to print the absolute path name of the current working directory.
+
+
+
+
