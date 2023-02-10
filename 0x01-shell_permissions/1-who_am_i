@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "root@61953dac78a3: $username"
+echo "root: $username"
