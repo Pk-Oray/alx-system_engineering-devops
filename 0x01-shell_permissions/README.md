@@ -1,1 +1,1 @@
-command returns the username
+display the names of the groups the user

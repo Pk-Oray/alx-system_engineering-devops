@@ -1,0 +1,2 @@
+#!/bin/bash
+groups=$(id -Gn) echo "Groups the current user is part of: $groups"
