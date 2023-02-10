@@ -1,1 +1,1 @@
-command to change the permissions on the file
+changes the permissions for the file
