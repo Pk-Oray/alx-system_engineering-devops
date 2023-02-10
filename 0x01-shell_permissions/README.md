@@ -1,1 +1,1 @@
-changes the permissions for the file
+command, which sets the permission to 744
