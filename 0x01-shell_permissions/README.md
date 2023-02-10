@@ -1,1 +1,1 @@
-command to change the owner of the file
+command to create an empty file
