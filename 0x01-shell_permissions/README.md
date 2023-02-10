@@ -1,1 +1,1 @@
-command, which sets the permission to 744
+command to set the permissions of the file
