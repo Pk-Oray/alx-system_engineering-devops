@@ -1,1 +1,1 @@
-command to switch to the user
+command returns the username
