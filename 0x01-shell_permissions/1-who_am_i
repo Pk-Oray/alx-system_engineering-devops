@@ -1,2 +1,2 @@
 #!/bin/bash
-username=$(whoami) echo "Effective username: $username"
+echo "root@61953dac78a3: $username"
