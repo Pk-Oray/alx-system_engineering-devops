@@ -1,1 +1,1 @@
-display the names of the groups the user
+command to change the owner of the file
