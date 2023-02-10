@@ -1,1 +1,1 @@
-command to add execute permission
+command to change the permissions on the file
